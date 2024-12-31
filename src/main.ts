@@ -1,10 +1,6 @@
-import { initFederation } from '@angular-architects/native-federation';
+import { bootstrapApplication } from '@angular/platform-browser';
+import { appConfig } from './app/app.config';
+import { AppComponent } from './app/app.component';
 
-initFederation({
-  'dashboard': 'http://localhost:4201/remoteEntry.json',
-  'social-details': 'http://localhost:4202/remoteEntry.json',
-  'settings': 'http://localhost:4203/remoteEntry.json'
-})
-  .catch(err => console.error(err))
-  .then(_ => import('./bootstrap'))
-  .catch(err => console.error(err));
+bootstrapApplication(AppComponent, appConfig)
+  .catch((err) => console.error(err));
