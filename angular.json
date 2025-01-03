@@ -53,6 +53,11 @@
               }
             ],
             "styles": ["projects/shell/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/shell/src"
+              ]
+            },
             "scripts": []
           }
         },
@@ -72,6 +77,11 @@
               }
             ],
             "styles": ["projects/shell/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/shell/src"
+              ]
+            },
             "scripts": []
           },
           "configurations": {
@@ -165,6 +175,11 @@
               }
             ],
             "styles": ["projects/dashboard/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/dashboard/src"
+              ]
+            },
             "scripts": []
           }
         },
@@ -184,6 +199,11 @@
               }
             ],
             "styles": ["projects/dashboard/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/dashboard/src"
+              ]
+            },
             "scripts": []
           },
           "configurations": {
@@ -277,6 +297,11 @@
               }
             ],
             "styles": ["projects/social-details/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/social-details/src"
+              ]
+            },
             "scripts": []
           }
         },
@@ -296,6 +321,11 @@
               }
             ],
             "styles": ["projects/social-details/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/social-details/src"
+              ]
+            },
             "scripts": []
           },
           "configurations": {
@@ -389,6 +419,11 @@
               }
             ],
             "styles": ["projects/settings/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/settings/src"
+              ]
+            },
             "scripts": []
           }
         },
@@ -408,6 +443,11 @@
               }
             ],
             "styles": ["projects/settings/src/styles.scss"],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "projects/settings/src"
+              ]
+            },
             "scripts": []
           },
           "configurations": {
