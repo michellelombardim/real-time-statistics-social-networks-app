@@ -52,11 +52,7 @@
                 "input": "projects/shell/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/shell/src/styles.scss"
-            ],
+            "styles": ["projects/shell/src/styles.scss"],
             "scripts": []
           }
         },
@@ -75,11 +71,7 @@
                 "input": "projects/shell/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/shell/src/styles.scss"
-            ],
+            "styles": ["projects/shell/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
@@ -172,11 +164,7 @@
                 "input": "projects/dashboard/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/dashboard/src/styles.scss"
-            ],
+            "styles": ["projects/dashboard/src/styles.scss"],
             "scripts": []
           }
         },
@@ -195,11 +183,7 @@
                 "input": "projects/dashboard/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/dashboard/src/styles.scss"
-            ],
+            "styles": ["projects/dashboard/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
@@ -292,11 +276,7 @@
                 "input": "projects/social-details/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/social-details/src/styles.scss"
-            ],
+            "styles": ["projects/social-details/src/styles.scss"],
             "scripts": []
           }
         },
@@ -315,11 +295,7 @@
                 "input": "projects/social-details/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/social-details/src/styles.scss"
-            ],
+            "styles": ["projects/social-details/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
@@ -412,11 +388,7 @@
                 "input": "projects/settings/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/settings/src/styles.scss"
-            ],
+            "styles": ["projects/settings/src/styles.scss"],
             "scripts": []
           }
         },
@@ -435,11 +407,7 @@
                 "input": "projects/settings/public"
               }
             ],
-            "styles": [
-              "@angular/material/prebuilt-themes/azure-blue.css",
-              "custom-theme.scss",
-              "projects/settings/src/styles.scss"
-            ],
+            "styles": ["projects/settings/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
